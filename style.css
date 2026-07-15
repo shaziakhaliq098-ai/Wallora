@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color:lightpink;
+}
+
+h1 {
+    color: black;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+.left-stickers {
+    position: fixed;
+    left: 10px;
+    top: 100px;
+    font-size: 30px;
+}
